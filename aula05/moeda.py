@@ -7,7 +7,6 @@ def apiDolar():
 
     url = "https://economia.awesomeapi.com.br/json/last/USD-BRL"
 
-
     dados = requests.get(url).content
 
     cotacao = json.loads(dados)
