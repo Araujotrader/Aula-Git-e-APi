@@ -19,9 +19,10 @@
 git --version
 ```
 
+- Caso não tenha, baixar e instalar (se não for administrador da máquina, baixa a versão portable)
 [Instalar Git](https://git-scm.com/downloads)
 
-Via Power Shell
+- Via Power Shell
 ```Power Shell
 winget install --id Git.Git -e --source winget
 ```
