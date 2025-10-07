@@ -35,3 +35,9 @@ git config --global user.email "seuemail@provedor.com"
 ```
 
 # testando mudanças na branch teste e main
+
+## Fazer um merge entre duas branches
+
+-Verificar em qual branch está
+    - git status
+
