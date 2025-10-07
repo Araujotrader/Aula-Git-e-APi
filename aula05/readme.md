@@ -38,6 +38,17 @@ git config --global user.email "seuemail@provedor.com"
 
 ## Fazer um merge entre duas branches
 
--Verificar em qual branch está
+    Branch main - principal
+    Branch teste - criado para fazer o merge
+
+- Verificar em qual branch está
     - git status
+
+- Ir para a branch de destino
+
+    - git checkout main
+
+- Fazer o merge buscando a branch que possuí a alteração
+
+    git merge teste
 
